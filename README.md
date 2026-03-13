@@ -1,7 +1,7 @@
 <!-- ================= CYBERPUNK HEADER ================= -->
 
 <p align="center">
-<img src="https://capsule-render.vercel.app/api?type=venom&height=260&text=Jose%20Tomas%20Diaz&fontSize=55&fontColor=00E5FF&color=0:000428,100:004e92&animation=fadeIn&desc=Full%20Stack%20Developer%20%7C%20Ingeniero%20de%20Sistemas&descAlignY=65&descSize=20"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&height=280&text=Jose%20Tomas%20Diaz&fontSize=55&fontAlign=50&fontAlignY=40&color=0:0f0c29,50:302b63,100:24243e&fontColor=ffffff&animation=twinkling&desc=Full%20Stack%20Developer%20|%20Ingeniero%20de%20Sistemas&descAlignY=65&descSize=20"/>
 </p>
 
 <h1 align="center">👨‍💻 Jose Tomas Diaz</h1>
@@ -192,5 +192,5 @@ Agregar enlace
 </p>
 
 <p align="center">
-<img src="https://capsule-render.vercel.app/api?type=waving&height=120&color=0:000428,100:004e92&section=footer"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&height=120&color=0:0f0c29,50:302b63,100:24243e&section=footer"/>
 </p>
