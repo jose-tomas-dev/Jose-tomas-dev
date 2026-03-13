@@ -37,10 +37,52 @@ Me apasiona **construir productos digitales modernos, funcionales y escalables.*
 
 # 🧠 Tech Stack
 
-<p align="center">
+# 🧠 Tech Stack
 
-<img src="https://skillicons.dev/icons?i=js,ts,python,html,css,angular,nodejs,mongodb,postgres,aws,git,vscode&perline=6"/>
+## 💻 Languages
 
+<p>
+<img src="https://skillicons.dev/icons?i=js,ts,python"/>
+</p>
+
+---
+
+## 🎨 Frontend
+
+<p>
+<img src="https://skillicons.dev/icons?i=html,css,angular"/>
+</p>
+
+---
+
+## ⚙️ Backend
+
+<p>
+<img src="https://skillicons.dev/icons?i=nodejs"/>
+</p>
+
+---
+
+## 🗄️ Databases
+
+<p>
+<img src="https://skillicons.dev/icons?i=mongodb,postgres"/>
+</p>
+
+---
+
+## ☁️ Cloud & Tools
+
+<p>
+<img src="https://skillicons.dev/icons?i=aws,git,github,vscode"/>
+</p>
+
+---
+
+## 🎨 Design
+
+<p>
+<img src="https://skillicons.dev/icons?i=figma"/>
 </p>
 
 ---
