@@ -1,82 +1,123 @@
+<img src="https://capsule-render.vercel.app/api?type=venom&color=0:0d1117,30:0a192f,60:112240,100:0d1117&height=220&section=header&text=Jose%20Tomas%20Diaz&fontSize=56&fontColor=64ffda&animation=fadeIn&fontAlignY=45&stroke=64ffda&strokeWidth=1&desc=Full%20Stack%20Developer%20%E2%80%A2%20Ingeniero%20de%20Sistemas&descAlignY=65&descColor=8892b0&descSize=17" width="100%"/>
+ 
 <div align="center">
  
-<!-- ANIMATED HEADER BANNER -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:1a1a2e,100:16213e&height=200&section=header&text=Jose%20Tomas%20Diaz&fontSize=52&fontColor=58a6ff&animation=fadeIn&fontAlignY=38&desc=Full%20Stack%20Developer%20%7C%20Ingeniero%20de%20Sistemas&descAlignY=58&descColor=8b949e&descSize=18" width="100%"/>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=20&pause=1200&color=64FFDA&center=true&vCenter=true&width=650&height=50&lines=Full+Stack+Developer+%F0%9F%9A%80;System+Engineer+%E2%9A%99%EF%B8%8F;Building+Modern+Web+Apps+%F0%9F%8C%90;Angular+%7C+Node.js+%7C+MongoDB+%F0%9F%94%A5;Always+building%2C+always+learning." alt="Typing SVG" /></a>
  
-<!-- TYPING SVG ANIMATION -->
-<a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=58A6FF&center=true&vCenter=true&width=600&lines=Full+Stack+Developer;System+Engineer;Building+Modern+Web+Apps;Angular+%7C+Node.js+%7C+MongoDB;Always+Learning%2C+Always+Building" alt="Typing SVG" />
-</a>
+<br/><br/>
  
-<br/>
- 
-<!-- BADGES -->
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-jose--tomas--diaz-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jose-tomas-diaz-rodriguez-web-designer)
-[![Email](https://img.shields.io/badge/Email-josetomas.dev%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:josetomas.dev@gmail.com)
-[![GitHub](https://img.shields.io/badge/GitHub-jose--tomas--dev-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/jose-tomas-dev)
- 
-<br/>
- 
-![Profile Views](https://komarev.com/ghpvc/?username=jose-tomas-dev&color=58a6ff&style=for-the-badge&label=PROFILE+VIEWS)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jose-tomas-diaz-rodriguez-web-designer)
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:josetomas.dev@gmail.com)
+[![GitHub](https://img.shields.io/badge/GitHub-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/jose-tomas-dev)
+![Visitors](https://komarev.com/ghpvc/?username=jose-tomas-dev&style=for-the-badge&color=64ffda&label=VISITORS)
  
 </div>
  
----
+<br/>
  
-## 🧑‍💻 About Me
+<img align="right" width="340" src="https://media.giphy.com/media/f3iwJFOVOwuy7K6FFw/giphy.gif" alt="coding gif"/>
  
-```typescript
-const jose = {
-  name:       "Jose Tomas Diaz",
-  role:       "Full Stack Developer | Ingeniero de Sistemas",
-  semester:   "7mo semestre — Ingeniería de Sistemas",
-  stack:      ["Angular", "Node.js", "MongoDB", "TypeScript"],
-  languages:  { spanish: "native", english: "B2" },
-  strengths:  ["REST APIs", "Auth", "CRUD", "Deployments", "Teamwork"],
-  motto:      "Transforming requirements into scalable tech solutions 🚀"
+## `$ whoami`
+ 
+```ts
+const jose: Developer = {
+  name     : "Jose Tomas Diaz",
+  title    : "Full Stack Developer",
+  degree   : "Ing. Sistemas · 7mo Semestre",
+  location : "Colombia 🇨🇴",
+  stack    : ["Angular", "Node.js", "MongoDB", "TypeScript"],
+  english  : "B2 — Professional Working",
+  interests: ["Web Apps", "REST APIs", "Clean Architecture"],
+  motto    : "Transforming ideas into scalable solutions 🔧"
 };
 ```
  
-> Estudiante de séptimo semestre de Ingeniería de Sistemas y Desarrollador Full Stack con experiencia en **Angular**, **Node.js** y **MongoDB**. He desarrollado aplicaciones web completas implementando APIs REST, autenticación, operaciones CRUD y despliegues en distintas plataformas. Cuento con nivel de inglés B2, habilidades de trabajo en equipo y capacidad para transformar requerimientos en soluciones tecnológicas funcionales y escalables.
+<br/>
+ 
+> Desarrollador Full Stack con experiencia construyendo aplicaciones web completas — desde el frontend en **Angular** hasta APIs REST en **Node.js** con **MongoDB**. Trabajo en equipo, entrego código limpio y pienso en escalabilidad desde el primer commit.
+ 
+<br clear="right"/>
  
 ---
  
-## 🛠️ Tech Stack
+## ⚡ Tech Stack
  
 <div align="center">
  
-### 🌐 Frontend
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![Angular](https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white)
+**Frontend**
  
-### ⚙️ Backend & Database
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![Angular](https://img.shields.io/badge/Angular-DD0031?style=flat-square&logo=angular&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
  
-### ☁️ Tools & Platforms
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![AWS](https://img.shields.io/badge/AWS-FF9900?style=for-the-badge&logo=amazon-aws&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![UX/UI](https://img.shields.io/badge/UX%2FUI-FF61F6?style=for-the-badge&logo=figma&logoColor=white)
+**Backend & Data**
+ 
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white)
+![Express](https://img.shields.io/badge/Express-000000?style=flat-square&logo=express&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+ 
+**Tools & Cloud**
+ 
+![AWS](https://img.shields.io/badge/AWS-FF9900?style=flat-square&logo=amazonaws&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
+![Figma](https://img.shields.io/badge/Figma-F24E1E?style=flat-square&logo=figma&logoColor=white)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=flat-square&logo=postman&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=flat-square&logo=visualstudiocode&logoColor=white)
  
 </div>
  
 ---
  
-## 🚀 Featured Projects
+## 🗂️ Featured Projects
  
 <div align="center">
+<table>
+<tr>
+<td width="33%" valign="top">
  
-| 🏗️ Project | 📝 Description | 🔧 Stack | 🔗 Links |
-|---|---|---|---|
-| **🌐 Portfolio** | Personal developer portfolio showcasing projects, skills, and experience with a modern UI | `HTML` `CSS` `JS` `Angular` | [![Repo](https://img.shields.io/badge/Repo-181717?style=flat-square&logo=github)](https://github.com/jose-tomas-dev/portfolio) [![Demo](https://img.shields.io/badge/Live-58a6ff?style=flat-square&logo=vercel)](https://jose-tomas-dev.vercel.app) |
-| **🛠️ Hand** | Colombian home services marketplace — connects homeowners with trusted service providers | `Angular` `Node.js` `MongoDB` `Express` | [![Repo](https://img.shields.io/badge/Repo-181717?style=flat-square&logo=github)](https://github.com/jose-tomas-dev/hand) [![Demo](https://img.shields.io/badge/Live-58a6ff?style=flat-square&logo=vercel)](https://hand-app.vercel.app) |
-| **👟 LuxeSneaks** | Premium sneaker e-commerce platform with product catalog, cart, and checkout flow | `Angular` `Node.js` `MongoDB` | [![Repo](https://img.shields.io/badge/Repo-181717?style=flat-square&logo=github)](https://github.com/jose-tomas-dev/luxesneaks) [![Demo](https://img.shields.io/badge/Live-58a6ff?style=flat-square&logo=vercel)](https://luxesneaks.vercel.app) |
+### 🌐 Portfolio
+Personal dev portfolio con UI moderna, animaciones fluidas y tema oscuro. Muestra proyectos, skills y experiencia.
  
+![Angular](https://img.shields.io/badge/-Angular-DD0031?style=flat-square&logo=angular)
+![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=flat-square&logo=typescript)
+![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3)
+ 
+[![Repo](https://img.shields.io/badge/⭐_Repo-0d1117?style=for-the-badge&logo=github)](https://github.com/jose-tomas-dev/portfolio)
+[![Demo](https://img.shields.io/badge/🚀_Live-64ffda?style=for-the-badge&logoColor=black)](https://jose-tomas-dev.vercel.app)
+ 
+</td>
+<td width="33%" valign="top">
+ 
+### 🛠️ Hand
+Marketplace colombiano de servicios para el hogar. Conecta propietarios con prestadores de servicios de confianza.
+ 
+![Angular](https://img.shields.io/badge/-Angular-DD0031?style=flat-square&logo=angular)
+![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat-square&logo=nodedotjs)
+![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?style=flat-square&logo=mongodb)
+ 
+[![Repo](https://img.shields.io/badge/⭐_Repo-0d1117?style=for-the-badge&logo=github)](https://github.com/jose-tomas-dev/hand)
+[![Demo](https://img.shields.io/badge/🚀_Live-64ffda?style=for-the-badge&logoColor=black)](https://hand-app.vercel.app)
+ 
+</td>
+<td width="33%" valign="top">
+ 
+### 👟 LuxeSneaks
+E-commerce premium de zapatillas con catálogo de productos, carrito de compras y flujo de checkout completo.
+ 
+![Angular](https://img.shields.io/badge/-Angular-DD0031?style=flat-square&logo=angular)
+![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat-square&logo=nodedotjs)
+![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?style=flat-square&logo=mongodb)
+ 
+[![Repo](https://img.shields.io/badge/⭐_Repo-0d1117?style=for-the-badge&logo=github)](https://github.com/jose-tomas-dev/luxesneaks)
+[![Demo](https://img.shields.io/badge/🚀_Live-64ffda?style=for-the-badge&logoColor=black)](https://luxesneaks.vercel.app)
+ 
+</td>
+</tr>
+</table>
 </div>
  
 ---
@@ -85,55 +126,37 @@ const jose = {
  
 <div align="center">
  
-<img src="https://github-readme-stats.vercel.app/api?username=jose-tomas-dev&show_icons=true&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&icon_color=58a6ff&text_color=c9d1d9&rank_icon=github" height="165"/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jose-tomas-dev&layout=compact&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9&langs_count=8" height="165"/>
+<img height="160" src="https://github-readme-stats.vercel.app/api?username=jose-tomas-dev&show_icons=true&hide_border=true&bg_color=0d1117&title_color=64ffda&icon_color=64ffda&text_color=ccd6f6&rank_icon=github&include_all_commits=true&count_private=true"/>
+<img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jose-tomas-dev&layout=compact&hide_border=true&bg_color=0d1117&title_color=64ffda&text_color=ccd6f6&langs_count=8"/>
  
 <br/>
  
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=jose-tomas-dev&theme=github-dark-blue&hide_border=true&background=0d1117&ring=58a6ff&fire=ff7b72&currStreakLabel=58a6ff" width="500"/>
+<img width="480" src="https://streak-stats.demolab.com?user=jose-tomas-dev&theme=dark&hide_border=true&background=0D1117&ring=64FFDA&fire=FF6B6B&currStreakLabel=64FFDA&sideLabels=8892B0&dates=8892B0"/>
+ 
+<br/><br/>
+ 
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=jose-tomas-dev&bg_color=0d1117&color=64ffda&line=64ffda&point=ccd6f6&area=true&area_color=112240&hide_border=true" width="100%"/>
  
 </div>
  
 ---
  
-## 👨‍💻 Developer Mode
+## 📬 Get In Touch
  
 <div align="center">
+<br/>
  
-<img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="380" alt="Coding GIF" style="border-radius: 10px;"/>
+[![LinkedIn](https://img.shields.io/badge/Let's_connect_on_LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jose-tomas-diaz-rodriguez-web-designer)
+&nbsp;
+[![Email](https://img.shields.io/badge/Drop_me_an_email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:josetomas.dev@gmail.com)
  
-</div>
- 
----
- 
-## 📬 Contact
- 
-<div align="center">
- 
-[![LinkedIn](https://img.shields.io/badge/Connect_on_LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jose-tomas-diaz-rodriguez-web-designer)
-[![Email](https://img.shields.io/badge/Send_an_Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:josetomas.dev@gmail.com)
- 
-</div>
- 
----
- 
-## 🐍 Contribution Snake
- 
-<div align="center">
- 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/jose-tomas-dev/jose-tomas-dev/output/github-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/jose-tomas-dev/jose-tomas-dev/output/github-snake.svg" />
-  <img alt="github-snake" src="https://raw.githubusercontent.com/jose-tomas-dev/jose-tomas-dev/output/github-snake-dark.svg" />
-</picture>
- 
+<br/>
 </div>
  
 ---
  
 <div align="center">
  
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:16213e,50:1a1a2e,100:0d1117&height=120&section=footer&text=Always%20building%2C%20always%20learning.&fontSize=20&fontColor=58a6ff&animation=fadeIn&fontAlignY=65" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:0a192f,100:112240&height=130&section=footer&text=%22Always%20building%2C%20always%20learning.%22&fontSize=18&fontColor=64ffda&animation=fadeIn&fontAlignY=65&desc=Jose%20Tomas%20Diaz%20%C2%B7%20Full%20Stack%20Developer&descColor=8892b0&descAlignY=85&descSize=13" width="100%"/>
  
 </div>
- 
