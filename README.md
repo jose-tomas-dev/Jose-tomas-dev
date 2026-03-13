@@ -1,134 +1,129 @@
-<!-- ================= HEADER / BANNER ================= -->
+<!-- ================= FUTURISTIC HEADER ================= -->
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:141E30,50:243B55,100:0F2027&height=200&section=header&text=Jose%20Tomas%20Diaz&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=35"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&height=250&color=0:0f2027,25:203a43,50:2c5364,75:203a43,100:0f2027&text=Jose%20Tomas%20Diaz&fontSize=50&fontAlignY=40&fontColor=00E5FF&animation=fadeIn"/>
 </p>
 
-<h1 align="center">👋 Hi, I'm Jose Tomas Diaz</h1>
+<h1 align="center">👨‍💻 Jose Tomas Diaz</h1>
 
 <p align="center">
-  <b>Full Stack Developer | Ingeniero de Sistemas</b>
+Full Stack Developer • Ingeniero de Sistemas
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?lines=Full+Stack+Developer;Angular+%7C+Node.js+%7C+MongoDB;Building+Modern+Web+Applications;Always+Learning+New+Technologies&center=true&width=500&height=45&color=58A6FF">
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=00E5FF&center=true&vCenter=true&width=500&lines=Full+Stack+Developer;Angular+%7C+Node.js+%7C+MongoDB;Building+Modern+Web+Apps;Always+Learning+New+Technologies"/>
 </p>
 
 ---
 
-# 🚀 About Me
+# ⚡ About Me
 
 🎓 Estudiante de **séptimo semestre de Ingeniería de Sistemas**  
-💻 **Desarrollador Full Stack** con experiencia en Angular, Node.js y MongoDB  
+💻 **Full Stack Developer** con experiencia en desarrollo de aplicaciones web completas.
 
-He desarrollado **aplicaciones web completas**, implementando:
+He trabajado con:
 
-- APIs REST
-- Autenticación
-- Operaciones CRUD
-- Integración con bases de datos
-- Despliegues en distintas plataformas
+• APIs REST  
+• Autenticación  
+• Operaciones CRUD  
+• Integración con bases de datos  
+• Deploy en distintas plataformas  
 
-🌎 Nivel de inglés **B2**  
-🤝 Buen trabajo en equipo  
-⚡ Capacidad de transformar requerimientos en **soluciones tecnológicas funcionales y escalables**
+🌎 **English level: B2**
+
+Me apasiona **construir productos tecnológicos modernos, funcionales y escalables.**
 
 ---
 
 # 🧠 Tech Stack
 
-### 💻 Lenguajes
+<p align="center">
 
-<p>
-<img src="https://skillicons.dev/icons?i=js,ts,python"/>
-</p>
+<img src="https://skillicons.dev/icons?i=js,ts,python,html,css,angular,nodejs,mongodb,postgres,aws,git,vscode&perline=6"/>
 
-### 🎨 Frontend
-
-<p>
-<img src="https://skillicons.dev/icons?i=html,css,angular"/>
-</p>
-
-### ⚙️ Backend
-
-<p>
-<img src="https://skillicons.dev/icons?i=nodejs"/>
-</p>
-
-### 🗄️ Bases de Datos
-
-<p>
-<img src="https://skillicons.dev/icons?i=mongodb,postgres"/>
-</p>
-
-### ☁️ Cloud & Tools
-
-<p>
-<img src="https://skillicons.dev/icons?i=aws,git,github,vscode"/>
 </p>
 
 ---
 
-# 🌟 Featured Projects
+# 🚀 Featured Projects
+
+<p align="center">
+<i>Mis proyectos principales</i>
+</p>
+
+<table align="center">
+<tr>
+<td width="33%" align="center">
 
 ## 💼 Portfolio
 
-Aplicación web que muestra mis proyectos, experiencia y habilidades como desarrollador.
+Aplicación web donde muestro mis proyectos, habilidades y experiencia como desarrollador.
 
 **Stack**
 
-```
-Angular
-Node.js
-MongoDB
-```
+`Angular`  
+`Node.js`  
+`MongoDB`
 
-🔗 Demo: *Agregar enlace*  
-📦 Repo: *Agregar enlace*
+🔗 **Demo**  
+Agregar enlace
 
----
+📦 **Repo**  
+Agregar enlace
+
+</td>
+
+<td width="33%" align="center">
 
 ## 🤝 Hand
 
-Plataforma enfocada en conectar usuarios mediante una experiencia moderna y funcionalidades escalables.
+Plataforma enfocada en conectar usuarios con una experiencia moderna y funcionalidades escalables.
 
 **Stack**
 
-```
-Angular
-Node.js
-MongoDB
-```
+`Angular`  
+`Node.js`  
+`MongoDB`
 
-🔗 Demo: *Agregar enlace*  
-📦 Repo: *Agregar enlace*
+🔗 **Demo**  
+Agregar enlace
 
----
+📦 **Repo**  
+Agregar enlace
+
+</td>
+
+<td width="33%" align="center">
 
 ## 👟 LuxeSneaks
 
-Aplicación web orientada al **e-commerce de sneakers**, con diseño moderno y arquitectura escalable.
+Aplicación web de **e-commerce de sneakers** con diseño moderno y arquitectura escalable.
 
 **Stack**
 
-```
-Angular
-Node.js
-MongoDB
-```
+`Angular`  
+`Node.js`  
+`MongoDB`
 
-🔗 Demo: *Agregar enlace*  
-📦 Repo: *Agregar enlace*
+🔗 **Demo**  
+Agregar enlace
+
+📦 **Repo**  
+Agregar enlace
+
+</td>
+</tr>
+</table>
 
 ---
 
-# 📊 GitHub Stats
+# 📊 GitHub Analytics
 
 <p align="center">
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=jose-tomas-dev&show_icons=true&theme=tokyonight&hide_border=true"/>
+<img height="170em" src="https://github-readme-stats.vercel.app/api?username=jose-tomas-dev&show_icons=true&theme=tokyonight&hide_border=true"/>
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jose-tomas-dev&layout=compact&theme=tokyonight&hide_border=true"/>
+<img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jose-tomas-dev&layout=compact&theme=tokyonight&hide_border=true"/>
 
 </p>
 
@@ -142,7 +137,7 @@ MongoDB
 
 ---
 
-# 📈 Contribution Graph
+# 📈 Activity Graph
 
 <p align="center">
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=jose-tomas-dev&theme=tokyo-night"/>
@@ -150,15 +145,7 @@ MongoDB
 
 ---
 
-# 🏆 GitHub Trophies
-
-<p align="center">
-<img src="https://github-profile-trophy.vercel.app/?username=jose-tomas-dev&theme=tokyonight&no-frame=true&margin-w=15"/>
-</p>
-
----
-
-# 💻 Developer Life
+# 💻 Developer Mode
 
 <p align="center">
 <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="420"/>
@@ -168,10 +155,10 @@ MongoDB
 
 # 📫 Connect With Me
 
-<p>
+<p align="center">
 
 <a href="https://www.linkedin.com/in/jose-tomas-diaz-rodriguez-web-designer">
-<img src="https://img.shields.io/badge/LinkedIn-Jose%20Tomas%20Diaz-0077B5?style=for-the-badge&logo=linkedin"/>
+<img src="https://img.shields.io/badge/LinkedIn-Jose%20Tomas%20Diaz-0A66C2?style=for-the-badge&logo=linkedin"/>
 </a>
 
 <a href="mailto:josetomas.dev@gmail.com">
@@ -182,9 +169,11 @@ MongoDB
 
 ---
 
-# 👀 Profile Views
+# 👀 Visitors
 
-![](https://komarev.com/ghpvc/?username=jose-tomas-dev&color=blueviolet&style=for-the-badge)
+<p align="center">
+<img src="https://komarev.com/ghpvc/?username=jose-tomas-dev&style=for-the-badge&color=blueviolet"/>
+</p>
 
 ---
 
@@ -201,5 +190,5 @@ MongoDB
 </p>
 
 <p align="center">
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F2027,50:243B55,100:141E30&height=120&section=footer"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&height=120&color=0:0f2027,50:203a43,100:2c5364&section=footer"/>
 </p>
