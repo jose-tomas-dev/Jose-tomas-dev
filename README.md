@@ -1,7 +1,7 @@
 <!-- ================= CYBERPUNK HEADER ================= -->
 
 <p align="center">
-<img src="https://capsule-render.vercel.app/api?type=waving&height=280&text=Jose%20Tomas%20Diaz&fontSize=55&fontAlign=50&fontAlignY=40&color=0:0f0c29,50:302b63,100:24243e&fontColor=ffffff&animation=twinkling&desc=Full%20Stack%20Developer%20|%20Ingeniero%20de%20Sistemas&descAlignY=65&descSize=20"/>
+<img src="https://capsule-render.vercel.app/api?type=rounded&height=250&text=Jose%20Tomas%20Diaz&fontSize=60&color=0:1a1a2e,50:16213e,100:0f3460&fontColor=ffffff&animation=fadeIn&desc=Full%20Stack%20Developer%20|%20Ingeniero%20de%20Sistemas&descAlignY=65&descSize=22"/>
 </p>
 
 <h1 align="center">👨‍💻 Jose Tomas Diaz</h1>
@@ -11,7 +11,7 @@
 </p>
 
 <p align="center">
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=00E5FF&center=true&vCenter=true&width=500&lines=Full+Stack+Developer;Angular+%7C+Node.js+%7C+MongoDB;Building+Modern+Web+Applications;Always+Learning+New+Technologies"/>
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=FFFFFF&center=true&vCenter=true&width=500&lines=Full+Stack+Developer;Angular+%7C+Node.js+%7C+MongoDB;Building+Modern+Web+Applications;Always+Learning+New+Technologies"/>
 </p>
 
 ---
@@ -192,5 +192,5 @@ Agregar enlace
 </p>
 
 <p align="center">
-<img src="https://capsule-render.vercel.app/api?type=waving&height=120&color=0:0f0c29,50:302b63,100:24243e&section=footer"/>
+<img src="https://capsule-render.vercel.app/api?type=rounded&height=120&color=0:1a1a2e,50:16213e,100:0f3460&section=footer"/>
 </p>
