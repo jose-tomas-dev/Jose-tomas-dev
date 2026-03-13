@@ -35,7 +35,6 @@ Me apasiona **construir productos digitales modernos, funcionales y escalables.*
 
 ---
 
-# 🧠 Tech Stack
 
 # 🧠 Tech Stack
 
@@ -98,9 +97,9 @@ Me apasiona **construir productos digitales modernos, funcionales y escalables.*
 
 <td width="33%" align="center">
 
-## 💼 Portfolio
+## 💼 Portafolio
 
-Aplicación web donde presento mis proyectos y habilidades como desarrollador.
+Portafolio donde presento mis proyectos y habilidades como desarrollador.
 
 **Stack**
 
