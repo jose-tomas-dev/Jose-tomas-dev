@@ -172,22 +172,6 @@ Agregar enlace
 
 ---
 
-# 🔥 GitHub Streak
-
-<p align="center">
-<img src="https://streak-stats.demolab.com?user=jose-tomas-dev&theme=tokyonight&hide_border=true"/>
-</p>
-
----
-
-# 📈 Activity Graph
-
-<p align="center">
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=jose-tomas-dev&theme=tokyo-night"/>
-</p>
-
----
-
 # 💻 Developer Mode
 
 <p align="center">
