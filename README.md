@@ -97,61 +97,46 @@ Me apasiona **construir productos digitales modernos, funcionales y escalables.*
 
 <td width="33%" align="center">
 
-## 💼 Portafolio
+### 💼 Portafolio
 
 Portafolio donde presento mis proyectos y habilidades como desarrollador.
 
 **Stack**
+`Angular` `Node.js` `MongoDB`
 
-`Angular`  
-`Node.js`  
-`MongoDB`
+<br>
 
-🔗 **Demo**  
-Agregar enlace
-
-📦 **Repo**  
-Agregar enlace
+[![Ver](https://img.shields.io/badge/¡Míralo_aquí!-FF4B2B?style=for-the-badge&logo=rocket&logoColor=white)](https://tu-enlace-provisional.com)
 
 </td>
 
 <td width="33%" align="center">
 
-## 🤝 Hand
+### 🤝 Hand
 
 Plataforma enfocada en conectar usuarios con una experiencia moderna.
 
 **Stack**
+`Angular` `Node.js` `MongoDB`
 
-`Angular`  
-`Node.js`  
-`MongoDB`
+<br>
 
-🔗 **Demo**  
-Agregar enlace
-
-📦 **Repo**  
-Agregar enlace
+[![Ver](https://img.shields.io/badge/Ver_en_vivo-302B63?style=for-the-badge&logo=browser&logoColor=white)](https://tu-enlace-provisional.com)
 
 </td>
 
 <td width="33%" align="center">
 
-## 👟 LuxeSneaks
+### 👟 LuxeSneaks
 
 Aplicación web orientada al **e-commerce de sneakers**.
 
 **Stack**
+`Angular` `Node.js` `MongoDB`
 
-`Angular`  
-`Node.js`  
-`MongoDB`
+<br>
 
-🔗 **Demo**  
-Agregar enlace
-
-📦 **Repo**  
-Agregar enlace
+[![Ver](https://img.shields.io/badge/¡Échale_un_ojo!-0f3460?style=for-the-badge&logo=stargaze&logoColor=white)](https://tu-enlace-provisional.com)
 
 </td>
 
